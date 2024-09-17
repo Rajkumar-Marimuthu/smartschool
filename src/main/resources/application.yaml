@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: smartschool
+  security:
+    user:
+      name: smart
+      password: password
